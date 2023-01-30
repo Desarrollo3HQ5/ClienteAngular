@@ -1,0 +1,23 @@
+.container{
+    align-items: center;
+    position: relative;
+    margin-top: 70px;
+    padding: 40px;
+    background-color:beige ;
+    width: 100%;
+    height: 730px;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+img{
+    position: relative;
+    width: auto;
+    height: 400px;
+    z-index: 1000;
+}
+p{
+    width: auto;
+    font-size: 10vw;
+    color: #b81c1c;
+}
